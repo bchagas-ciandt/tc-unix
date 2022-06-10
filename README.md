@@ -1,3 +1,4 @@
 ### Manual dos Scripts ###
 ** script 0-bring_me_home altera o diretório atual do usuário para o diretório HOME**
 **script 1-listfiles exibe o conteúdo do diretório atual em formato longo**
+**script 2-listmorefiles exibe os conteúdos dos diretórios, incluindo os arquivos ocultos e no formato longo**
